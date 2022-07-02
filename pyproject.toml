@@ -6,6 +6,7 @@ authors = ["fagja <hey.shunya19@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+Flask = "^2.1.2"
 
 [tool.poetry.dev-dependencies]
 
